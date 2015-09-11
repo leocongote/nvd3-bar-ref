@@ -1,12 +1,11 @@
 {
-  "name": "nvd3-boxplot",
+  "name": "nvd3-barref",
   "version": "0.1.0",
   "homepage": "https://github.com/analyticboard/nvd3-boxplot",
   "authors": [
-    "Dang Tung",
-    "Jaime Garcia"
+    "Leonardo Congote"
   ],
-  "description": "NVD3 Boxplot Chart",
+  "description": "NVD3 multi bar Ref and range",
   "main": "index.html",
   "keywords": [
     "d3",
